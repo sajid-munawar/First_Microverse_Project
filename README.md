@@ -11,31 +11,19 @@
 - CSS
 - Github workflows
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://github.com/sajid-munawar/First_Microverse_Project/tree/header_with_hello_microverse)
+[Live Demo Link](https://sajid-munawar.github.io/First_Microverse_Project/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Clone repository in your local machine 
+- git clone https://github.com/sajid-munawar/First_Microverse_Project.git
+- cd First_Microverse_Project
+- open `index.html` in your browser.
 
 
 
